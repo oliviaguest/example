@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# This stuff should never be uploaded to github
+secret/
+
 # C extensions
 *.so
 
